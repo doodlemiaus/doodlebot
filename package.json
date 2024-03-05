@@ -1,0 +1,23 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Doodlebot",
+  "main": "index.js",
+  "scripts": {
+    "test": "rawr"
+  },
+  "keywords": [
+    "doodle"
+  ],
+  "author": "sunshinecritter",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "dotenv": "^16.4.5",
+    "sequelize": "^6.37.1",
+    "sqlite3": "^5.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
